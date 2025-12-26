@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://academic-codex.github.io/SCE0600-Introducao-Ciencia-Da-Computacao-II">
-    <img src=".github/readme/hero.svg?v=2025-12-26T15:08:48.807235Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SCE0602-Introducao-Ciencia-Da-Computacao-II">
+    <img src=".github/readme/hero.svg?v=2025-12-26T15:18:49.715704Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
