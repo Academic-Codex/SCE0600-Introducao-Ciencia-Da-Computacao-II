@@ -1,0 +1,12 @@
+REPO_TAGLINE: Programming structures • abstraction • computational thinking
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/SCE0600-Introducao-Ciencia-Da-Computacao-II
+
+BG_1: "#083344"
+BG_2: "#0E7490"
+TEXT_MAIN: "#ECFEFF"
+TEXT_MUTED: "#A5F3FC"
+ACCENT: "#22D3EE"
+CARD_RADIUS: "18"
